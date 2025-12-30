@@ -56,13 +56,4 @@ El análisis se desarrolló utilizando las siguientes técnicas:
 - Planificar campañas promocionales considerando la estacionalidad observada.
 - Mantener todos los métodos de pago disponibles y priorizar otras palancas de crecimiento.
 
----
 
-## Estructura del repositorio
-```text
-analisis-eda-segmentacion-ecommerce/
-├── notebooks/
-│   └── analysis.ipynb
-├── report/
-│   └── Ecommerce_EDA_Segmentation_Report_ES.pdf
-├── README.md
